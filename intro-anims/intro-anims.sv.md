@@ -169,19 +169,13 @@ Den som leder programmeringen behöver kunna svara på de vanligaste
 frågorna om Scratch som dyker upp, t.ex.:
 
 * Hur man tar bort en sprajt man inte vill ha med
-
 * Hur förminskar man en sprajt
-
 * Hur gör man så en sprajt är vänd åt vänster (utan att vara roterad
   upp-och-ner)
-
 * Hur återtar man en sprajt eller program som raderats av misstag
-
 * Hur man sätter mittpunkten på en sprajt om man ritar den själv
-
 * Hur en sprajt kan animeras med repetera-block för att snurra runt,
   röra sig eller byta klädslar
-
 * Hur man kan styra sprajtar med tangentbordet
 
 Det är rekommenderat att ägna några kvällar åt att programmera olika
@@ -241,8 +235,6 @@ det är lätt att komma igång med och det kan sedan bygga vidare.
 
 ## Demonstration
 
-Beskriv scenerna i exempelfilmen kort.
-
 Logga in på ditt konto och öppna Scratcheditorn.  Visa de viktigaste
 delarna av den:
 
@@ -251,6 +243,9 @@ delarna av den:
 * Den tomma ytan till höger där man programmerar
 * Pusselbitarna i mitten
 * Att man kan byta språk på jordgloben uppe till vänster
+
+Beskriv scenerna i exempelfilmen mycket kort så eleverna kan koppla
+ditt manus till programmet.
 
 Bygg upp din exempelfilm steg för steg och visa hela tiden vad som
 händer.  Det är viktigt att inte göra klart allt på en gång, utan visa
@@ -268,23 +263,18 @@ varnar för vanliga fel som kan uppstå i elevernas program.
 Exemplet behöver täcka in följande delar:
 
 * Lägga till bakgrunder
-
 * Lägga till sprajtar, och eventuellt ta bort defaultsprajten
-
 * Händelser:
   * när grön flagg klickas på
   * när bakgrund växlar till
-
 * Rörelse:
   * gå till x/y
   * glid N sek till x/y
-
 * Utseende:
   * säg X i N sekunder
   * byt bakgrund till
   * visa
   * göm
-
 * Kontroll:
   * vänta N sekunder
 
@@ -312,7 +302,7 @@ Programmen för vad sprajtarna ska göra i scen ett kopplas till
 > scen.  Det är sedan onödigt att riskera förvirra eleverna genom att
 > ändra de programmen när man lägger till den andra scenen.
 
-När den andra scenen läggs till och man använder
+När den andra scenen läggs till, man använder
 `byt bakgrund till "scen 2` och lägger till
 `när bakgrund växlar till "scen 2"` för att börja programmera den är
 det bra att påpeka skillnaden mellan ett kommando som byter bakgrund
