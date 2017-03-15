@@ -416,5 +416,4 @@ själva:
 
 * Det finns massor med Youtubefilmer som visar hur man kan göra olika
   saker i Scratch.  AV-Media har spelat in filmer och samlat andra på
-  svenska här: **TODO: inte publicerat än, länk och navigering
-  kommer**
+  svenska här: http://avmedia.kronoberg.se/fortbildning/
