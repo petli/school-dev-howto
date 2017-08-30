@@ -52,7 +52,7 @@ programmering själva.
 ## Resurser
 
 Film från en lektion där den här metoden används:
-**TODO: filmen är inte färdigklippt än**
+https://www.youtube.com/watch?v=4QEMh4yoM2A
 
 Exempelprogrammet från filmen kan undersökas och remixas här:
 https://scratch.mit.edu/projects/147890744/
@@ -416,4 +416,4 @@ själva:
 
 * Det finns massor med Youtubefilmer som visar hur man kan göra olika
   saker i Scratch.  AV-Media har spelat in filmer och samlat andra på
-  svenska här: http://avmedia.kronoberg.se/fortbildning/
+  svenska här: http://avmedia.kronoberg.se/kod/
